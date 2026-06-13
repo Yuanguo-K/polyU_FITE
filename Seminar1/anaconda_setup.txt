@@ -1,0 +1,14 @@
+tick yes  `add Anaconda3 to the system PATH environment Variable` when download Anaconda
+If you you may setup Anaconda powershell in Anaconda-Navigator app.
+
+# > conda create -n ds_course python=3.9
+
+# > conda activate ds_course
+
+# > conda install ipykernel
+
+# > python -m ipykernel install --user --name ds_course --display-name "Python3.9 (ds_course)"
+
+
+# if you would like to deactivate 
+# > conda deactivate

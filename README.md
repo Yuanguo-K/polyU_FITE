@@ -2,9 +2,6 @@
 
 Course materials for the Data Science Seminar series — slides, notebooks, video for each session live in **this repository**.
 
-> **Looking for the video?** The recordings are **not** in this repo. They are
-> hosted on OneDrive — see [Watch the recordings](#watch-the-recordings) below.
-
 ## Watch the recordings
 
 The session videos are stored in a shared OneDrive folder:
